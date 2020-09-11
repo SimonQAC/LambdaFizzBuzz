@@ -1,7 +1,6 @@
 //thank you elizabeth for producing readable, understandable and replicatable code
 
 package com.qa.main;
-import java.util.ArrayList;
 
 public class Main {
 	
